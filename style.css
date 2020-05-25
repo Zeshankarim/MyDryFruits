@@ -1,0 +1,18 @@
+.navbar{
+    background-color: #ca832f !important;
+    height: 30px;
+    padding: 1pc;
+}
+.nav-link{
+    color: white !important;
+    font-size: small;
+    
+}
+div>ul>li>a{
+    margin-left: 100px;
+    
+}
+.navbar-text{
+    margin-right: 100px;
+}
+
