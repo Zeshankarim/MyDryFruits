@@ -46,7 +46,8 @@
     
     
     margin-top: 10px;
-}h3{
+}
+h3{
     color: #ca832f !important;
 }
 @media screen and (max-width: 600px) {
@@ -54,3 +55,36 @@
       width: 100%;
     }
   }
+  .newArrivals{
+      margin-top: 50px;
+  }
+  .card{
+      width: 250px;
+      height:auto !important;
+      margin-bottom: 10px;
+  }
+  .card-text{
+      font-weight: bold;
+  }
+  .btn-primary{
+      width: 100%;
+      background-color: #ca832f;
+  }
+.heading{
+    text-align: center;
+    font-weight: bold;
+    color:#ca832f ;
+;   margin: 20px;
+}
+.heading>h1{
+    text-shadow: 2px 2px 4px grey;
+}
+.footer{
+    width: 100%;
+    background-color: #ca832f;
+}
+.footer>div{
+    text-align: center;
+    color: white;
+    
+}
